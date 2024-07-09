@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because at the sorted50000.txt list this one was the fastest, even faster than sort 2, but at the random it went slower than the sort2.
+
+sort2 uses: Merge Sort
+
+How do you know?: It sorted faster than other two arrays random50000.txt file, also the reversed50000.txt
+
+sort3 uses: Selection Sort
+
+How do you know?: It has Theta of sqrtn, and it shows at the highest levels, that it uses the same time. 
